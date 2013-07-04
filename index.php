@@ -25,6 +25,7 @@
 	<form>
 	<hr>
 <?
+echo "Sandip";
 if($_POST['resize'])
 {
 include("resize-class.php");
