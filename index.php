@@ -25,7 +25,7 @@
 	<form>
 	<hr>
 <?
-echo "Sandip"; 
+echo "SandipK"; 
 if($_POST['resize'])
 {
 include("resize-class.php");
